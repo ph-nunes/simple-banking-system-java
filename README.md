@@ -1,18 +1,20 @@
-## Getting Started
+# 🏦 Sistema Bancário Simples em Java (POO)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Aplicação desenvolvida em Java estruturada com Paradigma de Orientação a Objetos (POO), criada com o objetivo de consolidar conceitos fundamentais de lógica de programação, encapsulamento e controle de fluxo no terminal.
 
-## Folder Structure
+## 🚀 Funcionalidades
+* **Consulta de Saldo:** Visualização em tempo real do saldo atual da conta.
+* **Depósito:** Entrada de valores monetários com validação de consistência (bloqueio de valores negativos).
+* **Saque:** Retirada de valores com verificação de saldo disponível.
+* **Sessão Interativa:** Menu dinâmico utilizando laço de repetição (`while`) e tratamento de escolhas via `switch-case`.
 
-The workspace contains two folders by default, where:
+## 🛠️ Tecnologias Utilizadas
+* **Java** (JDK 17+)
+* **Paradigma Orientado a Objetos (POO)** (Classes, Atributos Privados, Construtores e Encapsulamento)
+* **IDE:** Visual Studio Code
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 💻 Como Executar o Projeto
+1. Certifique-se de ter o Java Development Kit (JDK) instalado na sua máquina.
+2. Clone este repositório ou descarregue os ficheiros.
+3. Abra a pasta do projeto na sua IDE de preferência (como o VS Code ou IntelliJ).
+4. Compile e execute o ficheiro `App.java`.
